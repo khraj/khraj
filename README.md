@@ -41,3 +41,31 @@
 - 📈 Ensure observability and performance with **Splunk**, **Dynatrace**, **Prometheus**, and **CloudWatch**, minimizing downtime
 
 ---
+
+### 💼 Career Snapshot
+
+- 🏢 **Pega Systems** – *Senior Release Engineer*  
+  Managing End-to-End Release Management from QA to Production environment without any misses. Enhanced the release process.
+
+- 🏢 **Tata Consultancy Services** – *System Engineer*  
+  Designed secure cloud infrastructure using AWS & Azure. Built CI/CD pipelines, implemented IaC, and improved uptime and efficiency.
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=khraj&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=khraj&theme=cobalt2&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=khraj&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Haripalepu/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
+
+Thanks for visiting!
