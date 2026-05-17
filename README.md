@@ -31,15 +31,27 @@
 
 ### 🔧 What I Do
 
-- 🛠️ Build and manage infrastructure on **AWS** and **Azure** using **Terraform** for repeatable, secure provisioning  
+- 🛠️ Build and manage infrastructure on **AWS** using **Terraform** for repeatable, secure provisioning  
 - ☁️ End-to-End Release Management
 - 🚀 Design high-performance **CI/CD pipelines** using **Jenkins**, and **Kubernetes**, reducing delivery friction  
 - 📃️ Manage codebases and collaboration with **GitHub** and **Bitbucket**, ensuring streamlined source control and peer workflows  
 - 🤖 Automate infrastructure and operational tasks using **Linux**, **Shell scripting**, and **Python**, improving consistency and speed  
 - 🧪 Enforce quality with **SonarQube**, and manage artifacts with **Nexus** and **JFrog Artifactory**  
-- 🔐 Secure cloud environments using **IAM**, **RBAC**, and **Azure Key Vault**, ensuring compliance and access control  
-- 📈 Ensure observability and performance with **Splunk**, **Dynatrace**, **Prometheus**, and **CloudWatch**, minimizing downtime
-
+- 🔐 Secure cloud environments using **IAM** ensuring compliance and access control  
+- 📈 Ensure observability and performance with **Dynatrace**, **Prometheus**, and **CloudWatch**, minimizing downtime
+- 🏗️Engineered and automated deployment and orchestration of microservices using Docker, Kubernetes, and Jenkins, resulting in highly available and scalable applications.
+- 🌌Automated AWS and GCP infrastructure provisioning with Terraform, increasing deployment efficiency and reducing manual configuration.
+- ✨Leveraged AI-powered software for automation and process optimization to streamline workflows.
+- 🛰️Managed infrastructure and service updates through the Global Operations Center (GOC), ensuring system reliability.
+- 🎯Utilized Agile Studio for efficient tracking of bugs, tasks, feedback, user stories, and release records.
+- 🤝Collaborated with development, testing, and operations teams to deliver releases to production with minimal errors.
+- 🏎️Streamlined Jenkins jobs by providing feedback to engineering teams, enhancing job efficiency.
+- 💡Conducted post-release retrospectives with stakeholders to identify challenges and drive continuous improvement.
+- 🌱Enhanced cross-team collaboration, improving communication and workflow efficiency.
+- 🧪Implemented automated testing, increasing code quality and reliability.
+- 🔢Applied semantic versioning for clear release and patch management.
+- 📊Developed release dashboards in Agile Studio for centralized visibility of release activities.
+- 📮Coordinated with leadership and technical teams for patch release approvals, ensuring timely delivery.
 ---
 
 ### 💼 Career Snapshot
