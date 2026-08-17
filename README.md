@@ -16,7 +16,7 @@
 
 ---
 
-"Strategic **Release Engineer** and SRE with **5+ years of experience** governing the end-to-end application lifecycle. Expert in orchestrating complex deployment schedules and release trains with a zero-failure rate. I specialize in building automated guardrails within **CI/CD** pipelines to ensure every production release is secure, compliant, and highly available across AWS and GCP."
+"**Cloud DevOps Engineer** with 5 years of experience in **AWS** cloud infrastructure, Infrastructure as Code, CI/CD automation, **containerization**, **configuration management**, and application deployment. Hands-on experience with **AWS**, **Terraform**, **Jenkins**, **Kubernetes**, **Docker**, **Ansible**, **Git**, **Linux**, and automated software delivery across multiple environments. Experienced in automating infrastructure provisioning and deployment workflows, troubleshooting build and **infrastructure** issues, supporting **production** environments, and improving deployment reliability. Strong background in cloud automation, **CI/CD**, containerized applications, infrastructure management, and enterprise software delivery."
 
 ---
 
